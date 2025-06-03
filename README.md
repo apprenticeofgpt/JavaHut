@@ -15,8 +15,8 @@
 
 ## ⚙️ 버전
 
-- Java 11+
-- Apache Tomcat 10.1.x
+- Java 11
+- Apache Tomcat 10.1
 - JDBC / DBCP
 - JSP / Servlet
 - OracleDB
