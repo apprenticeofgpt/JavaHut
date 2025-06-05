@@ -113,7 +113,7 @@
 -
 
 ---
-# 🌐 Webtest - Servlet/JSP 학습 프로젝트
+## 🌐 Webtest - Servlet/JSP 학습 프로젝트
 
 이 프로젝트는 Java 기반의 Servlet & JSP 웹 프로그래밍 개념을 학습하기 위해 구성된 실습 리포지터리입니다.  
 WAS의 기본 구조부터 요청/응답 흐름, 세션/쿠키, MVC 패턴까지 자바 웹 백엔드의 핵심 개념을 다룹니다.
