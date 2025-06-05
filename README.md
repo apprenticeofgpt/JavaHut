@@ -28,21 +28,21 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 ## 📁 자바 문법 예제 (Test/src/mypack)
 
 <details>
-<summary><strong>2. 변수와 자료형</strong></summary>
+<summary><strong>1. 변수와 자료형</strong></summary>
 
 - [`Wrapper.java`](Test/src/mypack/Wrapper.java)
 
 </details>
 
 <details>
-<summary><strong>3. 연산자</strong></summary>
+<summary><strong>2. 연산자</strong></summary>
 
 - [`MoneyDivider.java`](Test/src/mypack/MoneyDivider.java)
 
 </details>
 
 <details>
-<summary><strong>4. 조건문 & 반복문</strong></summary>
+<summary><strong>3. 조건문 & 반복문</strong></summary>
 
 - [`IsTriangle.java`](Test/src/mypack/IsTriangle.java)  
 - [`RectCheck.java`](Test/src/mypack/RectCheck.java)  
@@ -53,14 +53,14 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 </details>
 
 <details>
-<summary><strong>5. 메서드</strong></summary>
+<summary><strong>4. 메서드</strong></summary>
 
 - [`StaticMember.java`](Test/src/mypack/StaticMember.java)
 
 </details>
 
 <details>
-<summary><strong>6. 클래스 & 객체</strong></summary>
+<summary><strong>5. 클래스 & 객체</strong></summary>
 
 - [`Book.java`](Test/src/mypack/Book.java)  
 - [`OOP_Circle.java`](Test/src/mypack/OOP_Circle.java)  
@@ -69,7 +69,7 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 </details>
 
 <details>
-<summary><strong>7. 상속과 다형성</strong></summary>
+<summary><strong>6. 상속과 다형성</strong></summary>
 
 - [`Inheritance.java`](Test/src/mypack/Inheritance.java)  
 - [`MethodOverridingEx.java`](Test/src/mypack/MethodOverridingEx.java)
@@ -77,7 +77,7 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 </details>
 
 <details>
-<summary><strong>8. 추상 클래스 & 인터페이스</strong></summary>
+<summary><strong>7. 추상 클래스 & 인터페이스</strong></summary>
 
 - [`GoodCalc.java`](Test/src/mypack/GoodCalc.java)  
 - [`Interface.java`](Test/src/mypack/Interface.java)
@@ -85,14 +85,14 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 </details>
 
 <details>
-<summary><strong>9. 예외처리</strong></summary>
+<summary><strong>8. 예외처리</strong></summary>
 
 - [`JavaException.java`](Test/src/mypack/JavaException.java)
 
 </details>
 
 <details>
-<summary><strong>10. 컬렉션 & 프레임워크</strong></summary>
+<summary><strong>9. 컬렉션 & 프레임워크</strong></summary>
 
 - [`ArrayListEx.java`](Test/src/mypack/ArrayListEx.java)  
 - [`VectorEx.java`](Test/src/mypack/VectorEx.java)  
@@ -105,7 +105,7 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 </details>
 
 <details>
-<summary><strong>11. 제네릭</strong></summary>
+<summary><strong>10. 제네릭</strong></summary>
 
 <!-- 예제 없음 -->
 
