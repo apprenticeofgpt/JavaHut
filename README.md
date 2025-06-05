@@ -46,7 +46,7 @@
 <details>
 <summary><strong>4. 조건문 & 반복문</strong></summary>
 
-- [`IsTriangle.java`](src/mypack/IsTriangle.java)  
+- [`IsTriangle.java`](src/mypack/isTriangle.java)  
 - [`RectCheck.java`](src/mypack/RectCheck.java)  
 - [`ForLoop.java`](src/mypack/ForLoop.java)  
 - [`ForEach.java`](src/mypack/ForEach.java)  
