@@ -136,22 +136,22 @@ WAS의 기본 구조부터 요청/응답 흐름, 세션/쿠키, MVC 패턴까지
 <details>
 <summary><strong>1. WAS 및 Servlet 개요</strong></summary>
 
-- [`HelloServlet.java`](webtest/src/main/sec01/ex01/HelloServlet.java)
+- 
 
 </details>
 
 <details>
 <summary><strong>2. 개발 환경 설정 (Tomcat, Eclipse)</strong></summary>
 
-- [`web.xml`](CRUD_Project/src/main/webapp/WEB-INF/web.xml)
+- 
 
 </details>
 
 <details>
 <summary><strong>3. HTTP 요청/응답 처리</strong></summary>
 
-- [`RequestParamServlet.java`](webtest/src/main/sec02/ex01/RequestParamServlet.java)  
-- [`UserInsertServlet.java`](CRUD_Project/src/main/java/sec01/ex01/UserInsertServlet.java)
+- 
+- 
 
 </details>
 
@@ -179,15 +179,15 @@ WAS의 기본 구조부터 요청/응답 흐름, 세션/쿠키, MVC 패턴까지
 <details>
 <summary><strong>7. JDBC</strong></summary>
 
-- [`UserDAO.java`](CRUD_Project/src/main/java/sec01/ex01/UserDAO.java)
+- 
 
 </details>
 
 <details>
 <summary><strong>8. MVC 패턴</strong></summary>
 
-- [`UserListServlet.java`](CRUD_Project/src/main/java/sec02/ex01/UserListServlet.java)  
-- [`User.java`](CRUD_Project/src/main/java/sec02/ex01/User.java)
+-  
+- 
 
 </details>
 
