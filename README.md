@@ -1,4 +1,4 @@
-# ☕ Java Web Study
+# ☕ Java
 
 자바 웹 개발 학습을 위한 리포지터리입니다.  
 Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량을 다지는 것을 목표로 합니다.
