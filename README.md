@@ -27,7 +27,7 @@
 ## 📁 Java 단원별 예제
 
 아래는 `Test/src/mypack` 경로 내 자바 학습 예제 파일들을 **단원별**로 분류한 목록입니다.  
-각 항목은 파일 내용을 기반으로 분류되었으며, 향후 파일을 추가하면서 확장해 나갈 수 있습니다.
+각 항목은 파일 내용을 기반으로 분류되어 있습니다.
 
 <details>
 <summary><strong>2. 변수와 자료형</strong></summary>
@@ -106,8 +106,82 @@
 
 </details>
 <summary><strong>11. 제네릭 </strong></summary>
+-
 
 </details>
 <summary><strong>12. 입출력 스트림 </strong></summary>
+-
+
+---
+## 🌐 Servlet 학습 예제 모음
+
+<details>
+<summary><strong>1. WAS 및 Servlet 개요</strong></summary>
+
+- 예제 준비 중
+
+</details>
+
+<details>
+<summary><strong>2. 개발 환경 설정 (Tomcat, Eclipse)</strong></summary>
+
+- 예제 준비 중
+
+</details>
+
+<details>
+<summary><strong>3. HTTP 요청/응답 처리</strong></summary>
+
+- [`HelloServlet.java`](WebContent/servlet/HelloServlet.java)  
+- [`RequestParamServlet.java`](WebContent/servlet/RequestParamServlet.java)
+
+</details>
+
+<details>
+<summary><strong>4. 서블릿 생명 주기</strong></summary>
+
+- [`LifeCycleServlet.java`](WebContent/servlet/LifeCycleServlet.java)
+
+</details>
+
+<details>
+<summary><strong>5. JSP (Java Server Page)</strong></summary>
+
+- [`index.jsp`](WebContent/index.jsp)  
+- [`form.jsp`](WebContent/jsp/form.jsp)
+
+</details>
+
+<details>
+<summary><strong>6. 세션과 쿠키</strong></summary>
+
+- [`SessionServlet.java`](WebContent/servlet/SessionServlet.java)  
+- [`CookieServlet.java`](WebContent/servlet/CookieServlet.java)
+
+</details>
+
+<details>
+<summary><strong>7. JDBC</strong></summary>
+
+- [`MemberDAO.java`](src/dao/MemberDAO.java)  
+- [`MemberInsertServlet.java`](WebContent/servlet/MemberInsertServlet.java)
+
+</details>
+
+<details>
+<summary><strong>8. MVC 패턴</strong></summary>
+
+- [`FrontControllerServlet.java`](WebContent/controller/FrontControllerServlet.java)  
+- [`MemberListView.jsp`](WebContent/view/MemberListView.jsp)  
+- [`MemberService.java`](src/service/MemberService.java)
+
+</details>
+
+<details>
+<summary><strong>9. 필터와 리스너</strong></summary>
+
+- 예제 준비 중
+
+</details>
 
 
