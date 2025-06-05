@@ -1,6 +1,6 @@
 # ☕ Java Web Study
 
-자바 웹 개발 학습을 위한 리포지터리입니다. CRUD 구현, 서블릿(Servlet), JSP 등을 활용한 기초적인 웹 프로그래밍을 실습하며 **백엔드 개발 역량**을 키우는 것을 목표로 합니다.
+자바 웹 개발 학습을 위한 리포지터리입니다. CRUD 구현, 서블릿(Servlet), JSP 등을 활용한 기초적인 웹 프로그래밍을 실습해 보는 것을 목표로 합니다.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 📁 예제 모음
+## 📁 Java 단원별 예제
 
 아래는 `Test/src/mypack` 경로 내 자바 학습 예제 파일들을 **단원별**로 분류한 목록입니다.  
 각 항목은 파일 내용을 기반으로 분류되었으며, 향후 파일을 추가하면서 확장해 나갈 수 있습니다.
@@ -105,10 +105,9 @@
 - [`HashMapStudentEx.java`](Test/src/mypack/HashMapStudentEx.java)
 
 </details>
+<summary><strong>11. 제네릭 </strong></summary>
 
-> ✨ 예제 파일이 새로운 단원이나 기능과 관련될 경우, 위 섹션에 자유롭게 추가 가능합니다.
+</details>
+<summary><strong>12. 입출력 스트림 </strong></summary>
 
----
-
-## 🔧 프로젝트 구조 예시
 
