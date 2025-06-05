@@ -131,105 +131,74 @@ WAS의 기본 구조부터 요청/응답 흐름, 세션/쿠키, MVC 패턴까지
 
 ---
 
-## ⚙️ 환경 정보
-
-- Java 11  
-- Apache Tomcat 10.1  
-- JSP / Servlet  
-- JDBC / DBCP  
-- OracleDB 또는 H2 DB  
-
----
-
-## 📁 단원별 예제 목록
-
-`Webtest` 프로젝트 내 학습 파일들을 **다음 단원 기준**으로 분류하였습니다.
+## 📁 단원별 예제 정리
 
 <details>
 <summary><strong>1. WAS 및 Servlet 개요</strong></summary>
 
-- 예제 준비 중
+- [`HelloServlet.java`](webtest/src/main/sec01/ex01/HelloServlet.java)
 
 </details>
 
 <details>
 <summary><strong>2. 개발 환경 설정 (Tomcat, Eclipse)</strong></summary>
 
-- 예제 준비 중
+- [`web.xml`](CRUD_Project/src/main/webapp/WEB-INF/web.xml)
 
 </details>
 
 <details>
 <summary><strong>3. HTTP 요청/응답 처리</strong></summary>
 
-- [`HelloServlet.java`](Webtest/src/servlet/HelloServlet.java)  
-  → 클라이언트의 요청을 받아 "Hello, World!" 메시지를 응답하는 기본 서블릿 예제입니다.
-
-- [`RequestParamServlet.java`](Webtest/src/servlet/RequestParamServlet.java)  
-  → 클라이언트로부터 전달된 파라미터를 처리하여 응답하는 서블릿 예제입니다.
+- [`RequestParamServlet.java`](webtest/src/main/sec02/ex01/RequestParamServlet.java)  
+- [`UserInsertServlet.java`](CRUD_Project/src/main/java/sec01/ex01/UserInsertServlet.java)
 
 </details>
 
 <details>
 <summary><strong>4. 서블릿 생명 주기</strong></summary>
 
-- [`LifeCycleServlet.java`](Webtest/src/servlet/LifeCycleServlet.java)  
-  → 서블릿의 생성(init), 요청 처리(service), 소멸(destroy) 과정을 출력하여 생명 주기를 학습하는 예제입니다.
+<!-- 예제 없음 -->
 
 </details>
 
 <details>
 <summary><strong>5. JSP (Java Server Page)</strong></summary>
 
-- [`index.jsp`](Webtest/WebContent/index.jsp)  
-  → 기본적인 JSP 페이지로, 정적인 HTML과 동적인 콘텐츠를 혼합하여 출력하는 예제입니다.
-
-- [`form.jsp`](Webtest/WebContent/jsp/form.jsp)  
-  → 사용자로부터 입력을 받아 서블릿으로 전송하는 폼을 구현한 JSP 예제입니다.
+<!-- 예제 없음 -->
 
 </details>
 
 <details>
 <summary><strong>6. 세션과 쿠키</strong></summary>
 
-- [`SessionServlet.java`](Webtest/src/servlet/SessionServlet.java)  
-  → HTTP 세션을 생성하고 관리하는 방법을 보여주는 서블릿 예제입니다.
-
-- [`CookieServlet.java`](Webtest/src/servlet/CookieServlet.java)  
-  → 클라이언트에 쿠키를 설정하고 읽는 방법을 학습하는 서블릿 예제입니다.
+<!-- 예제 없음 -->
 
 </details>
 
 <details>
 <summary><strong>7. JDBC</strong></summary>
 
-- [`MemberDAO.java`](Webtest/src/dao/MemberDAO.java)  
-  → 데이터베이스와의 연결을 통해 회원 정보를 삽입, 조회하는 DAO 클래스입니다.
-
-- [`MemberInsertServlet.java`](Webtest/src/servlet/MemberInsertServlet.java)  
-  → 사용자로부터 입력받은 회원 정보를 데이터베이스에 저장하는 서블릿 예제입니다.
+- [`UserDAO.java`](CRUD_Project/src/main/java/sec01/ex01/UserDAO.java)
 
 </details>
 
 <details>
 <summary><strong>8. MVC 패턴</strong></summary>
 
-- [`FrontControllerServlet.java`](Webtest/src/controller/FrontControllerServlet.java)  
-  → 모든 요청을 중앙에서 처리하는 Front Controller를 구현한 서블릿 예제입니다.
-
-- [`MemberListView.jsp`](Webtest/WebContent/view/MemberListView.jsp)  
-  → 회원 목록을 출력하는 JSP 뷰 페이지로, MVC 패턴의 View 역할을 담당합니다.
-
-- [`MemberService.java`](Webtest/src/service/MemberService.java)  
-  → 비즈니스 로직을 처리하는 서비스 클래스이며, DAO와 Controller 사이의 중간 역할을 합니다.
+- [`UserListServlet.java`](CRUD_Project/src/main/java/sec02/ex01/UserListServlet.java)  
+- [`User.java`](CRUD_Project/src/main/java/sec02/ex01/User.java)
 
 </details>
 
 <details>
 <summary><strong>9. 필터와 리스너</strong></summary>
 
-- 예제 준비 중
+<!-- 예제 없음 -->
 
+</details>
+
+---
 </details>
 
 
