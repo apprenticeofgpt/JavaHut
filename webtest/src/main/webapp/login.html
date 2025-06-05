@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>여러 가지 input 타입 폼</title>
+</head>
+<body>
+  <h2>로그인</h2>
+  <form method="post" action="Login">
+    아이디: <input type="text" name="userId"><br>
+    비밀번호: <input type="password" name="userPwd"><br>
+
+    <label><input type="checkbox" name="subject" value="java" checked> 자바</label>
+    <label><input type="checkbox" name="subject" value="c"> C 언어</label>
+    <label><input type="checkbox" name="subject" value="jsp"> JSP</label>
+    <label><input type="checkbox" name="subject" value="android"> 안드로이드</label><br>
+
+    <input type="submit" value="전송">
+    <input type="reset" value="초기화">
+  </form>
+</body>
+</html>
