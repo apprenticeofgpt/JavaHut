@@ -192,5 +192,5 @@ Java 문법부터 Servlet, JSP, JDBC 등을 실습하며 기초 백엔드 역량
 
 ## 👤 Author
 
-- GitHub: [apprenticeofgpt](https://github.com/rbwjdrla)
+- GitHub: [rbwjdrla](https://github.com/rbwjdrla)
 
